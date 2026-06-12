@@ -1,0 +1,8 @@
+{
+  "name": "De Babyconsultant",
+  "description": "Liefdevol, medisch en biologisch onderbouwd babyconsulten portaal over rust, voeding, slaap en ontwikkeling door gediplomeerd kinderverpleegkundige Claudia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
